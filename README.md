@@ -1,8 +1,5 @@
 # Sino.Droid.SlideDateTimePicker
 
-安装方式
-```
-Install-Package Sino.Droid.SlideDateTimePicker
-```
+Fork from https://github.com/CSharpCross/Sino.Droid.SlideDateTimePicker
 
-时间选择弹窗
+This library is Xamarin port of https://github.com/jjobes/SlideDateTimePicker
